@@ -1,8 +1,8 @@
 
 let tareas = [
-    { id: 1, descripcion: "Estudiar JavaScript", completado: false },
-    { id: 2, descripcion: "Hacer ejercicio", completado: true },
-    { id: 3, descripcion: "Leer un libro", completado: false }
+    { id: 1, descripcion: "Estudiar todas las semanas", completado: false },
+    { id: 2, descripcion: "Asistir a clases", completado: true },
+    { id: 3, descripcion: "ejercitar Jvasrip", completado: false }
 ];
 
 let contador = 4;
